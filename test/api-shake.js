@@ -1,7 +1,7 @@
 'use strict'
 const Buffer = require('safe-buffer').Buffer
 const test = require('tape')
-const stream = require('stream')
+const stream = require('readable-stream')
 
 const utf8text = 'УТФ-8 text'
 
