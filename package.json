@@ -37,10 +37,7 @@
     "unit": "tape test/index.js"
   },
   "dependencies": {
-    "bindings": "^1.2.1",
     "buffer": "^5.0.8",
-    "inherits": "^2.0.3",
-    "nan": "^2.2.1",
     "safe-buffer": "^5.1.0"
   },
   "devDependencies": {
